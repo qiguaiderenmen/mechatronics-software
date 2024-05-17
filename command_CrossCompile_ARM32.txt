@@ -1,0 +1,1 @@
+cmake -DCMAKE_TOOLCHAIN_FILE=/home/simon/mechatronics_dev/mechatronics-embedded/build/toolchain_vitis_fpgav3.cmake
